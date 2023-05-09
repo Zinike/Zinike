@@ -45,8 +45,4 @@
     conectarte, no dudes en ponerse en contacto conmigo a través de mi perfil de
     GitHub. ¡Estoy ansioso por conocerte y explorar nuevas oportunidades juntos!
   </p>
-  <a href="https://www.linkedin.com/in/marcos-zingaretti/">LinkedIn</a>
 </section>
-<footer>
-  <p>© 2023 Marcos Zingaretti. Todos los derechos reservados.</p>
-</footer>
